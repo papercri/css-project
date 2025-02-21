@@ -1,4 +1,6 @@
-# CSS-Project CodeOp
+# HTML & Tailwind Challenge 
+
+Réplica de un diseño en Figma utilizando HTML válido y semántico. Implementación con Tailwind CSS, aprovechando @apply si es necesario. Uso de CSS Grid para el layout y Flexbox para componentes.
 
 Link: http://css-project-eta.vercel.app
 
@@ -11,21 +13,9 @@ Link: http://css-project-eta.vercel.app
 
 # Front End - Project 1
 
-Choose one of the following web page designs to compose it using the HTML and CSS knowledge we’ve learned over the past two weeks:
+Use the following web page design to compose the HTML and CSS:
 
-| **Title**                        | **Link**                                                 |
-| -------------------------------- | -------------------------------------------------------- |
-| Furniture Landing Page           | https://www.figma.com/community/file/1061732519182077733 |
-| iBuy - ecommerce website         | https://www.figma.com/community/file/1061279717553788561 |
-| Finance Website Concept          | https://www.figma.com/community/file/1060098483912933594 |
-| Agency Landing Page              | https://www.figma.com/community/file/1060934768189771297 |
-| Digital Agency Website           | https://www.figma.com/community/file/1058842196634115002 |
-| Product Landing Page             | https://www.figma.com/community/file/1059550415816505412 |
-| Agency Web - Landing page design | https://www.figma.com/community/file/1058767686059595687 |
-| Gaming Platform                  | https://www.figma.com/community/file/1058773912152023976 |
-| Simple Agency Web                | https://www.figma.com/community/file/1058777711359033259 |
-| Creative Freelance Portfolio     | https://www.figma.com/community/file/1055585500471619711 |
-| Travel Website Landing Page      | https://www.figma.com/community/file/993910904620677970  |
+[Client First Tamplate Church ](https://www.figma.com/community/file/1068172976080193544)
 
 ## Setup
 
@@ -34,14 +24,8 @@ In your terminal:
 1. Run `npm install` to install the packages.
 2. Run `npm start` to initialize Tailwind and automatically compile its classes.
 
-**IMPORTANT!** From this point on, the terminal will be "locked," as a program will be running. This means you won’t be able to use this terminal window for tasks like `git commit`. You’ll need to open another terminal window to do that!
-
 ## Resources
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind Labs YouTube Channel](https://www.youtube.com/c/TailwindLabs)
 - [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
-
-## Notes
-
-_This project was created at [CodeOp](http://CodeOp.tech), during the Front End Development bootcamp in Barcelona._
